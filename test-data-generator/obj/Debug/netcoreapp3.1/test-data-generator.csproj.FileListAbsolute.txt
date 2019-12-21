@@ -1,0 +1,13 @@
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\test-data-generator.exe
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\obj\Debug\netcoreapp3.1\test-data-generator.csprojAssemblyReference.cache
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\obj\Debug\netcoreapp3.1\test-data-generator.AssemblyInfoInputs.cache
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\obj\Debug\netcoreapp3.1\test-data-generator.AssemblyInfo.cs
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\test-data-generator.deps.json
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\test-data-generator.runtimeconfig.json
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\test-data-generator.runtimeconfig.dev.json
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\test-data-generator.dll
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\test-data-generator.pdb
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\obj\Debug\netcoreapp3.1\test-data-generator.csproj.CopyComplete
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\obj\Debug\netcoreapp3.1\test-data-generator.dll
+C:\_src\KANTAR\km-contentlinks-testdata\test-data-generator\test-data-generator\obj\Debug\netcoreapp3.1\test-data-generator.pdb
